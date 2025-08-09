@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Bajaj AI Insurance Assistant',
+  title: 'PolicyPulse-AI',
   description: 'An AI-powered insurance document retriever and Q&A bot built for Bajaj.',
 }
 
